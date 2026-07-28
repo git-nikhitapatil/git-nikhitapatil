@@ -1,79 +1,61 @@
-<h1 align="center">Hi 👋, I'm Nikhita Patil</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Passionate+About+Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&repeat=true&width=900&lines=Nikhita+Patil;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/git-nikhitapatil">
-    <img src="https://img.shields.io/github/followers/git-nikhitapatil?label=Followers&style=for-the-badge&logo=github"/>
+  <i>"Building intelligent solutions, one project at a time."</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhitapatil27">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/git-nikhitapatil">
-    <img src="https://img.shields.io/github/stars/git-nikhitapatil?affiliations=OWNER&style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 ---
 
-# 💫 About Me
+# 🎯 About Me
 
-🎓 Computer Science Engineering Student
-
-💻 Aspiring Full Stack Developer
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🌱 Currently learning React, Node.js, Express.js and Machine Learning
-
-🚀 Building practical, real-world web applications
-
-🤝 Open to learning, collaborating and contributing to exciting projects
+- 🌱 Currently exploring **Artificial Intelligence, Machine Learning & Full Stack Development**
+- 💡 Passionate about building real-world applications that solve meaningful problems
+- 🚀 Always learning new technologies and improving my development skills
+- 🤝 Open to collaboration on innovative and impactful projects
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mysql,python,git,github,tailwind,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mysql,python,git,github,tailwind,vscode"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🏠 Real Estate Property Management System
+### 🏠 Real Estate Property Management System
 
-✔ User Authentication
+A full-stack web application for property listing, authentication, search, and management.
 
-✔ Property Listing & Search
-
-✔ React + Node.js + Express + MySQL
+**Tech Stack:** React • Node.js • Express.js • MySQL
 
 ---
 
-## 🌐 CNEST Website
+### 🌐 CNEST Website (Events Page)
 
-✔ Developed the Events Page
-
-✔ React + TypeScript + Tailwind CSS
-
-✔ Responsive UI
+Developed the Events Page using React, TypeScript, and Tailwind CSS with a responsive UI.
 
 ---
 
-## 🤖 House Price Prediction
+### 🤖 House Price Prediction
 
-✔ Machine Learning Project
-
-✔ Python
-
-✔ Data Analysis & Prediction
+Machine Learning project for predicting house prices using Python and regression models.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -90,16 +72,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=git-nikhitapatil&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=git-nikhitapatil&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </p>
 
@@ -131,14 +103,12 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=git-nikhitapatil&label=Profile+Views&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=git-nikhitapatil&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
 <h3 align="center">
-
-✨ Thanks for visiting my profile! ✨
-
+⭐ Thanks for visiting my profile!
 </h3>
