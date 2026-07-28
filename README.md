@@ -49,12 +49,6 @@ Developed the Events Page using React, TypeScript, and Tailwind CSS with a respo
 
 ---
 
-### 🤖 House Price Prediction
-
-Machine Learning project for predicting house prices using Python and regression models.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
